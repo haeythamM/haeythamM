@@ -37,7 +37,7 @@ I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for c
   *Frontend: React, Vue.js; Backend: Laravel, Flask; Database: MySQL, MariaDB*
 
 - **Computer Engineering Technology** (Advanced Diploma), Seneca Polytechnic, Toronto, ON (2018 - 2022)  
-  *Web Development with Linux, Programming in C, C++, and .NET*
+  *Web Development with Linux, Programming in C, C++, and C# .NET*
 
 ---
 
