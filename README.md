@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Header Image](./Header.png)
 
 I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for crafting intuitive and responsive user interfaces. I enjoy solving challenges and bringing ideas to life through modern web technologies.
 
