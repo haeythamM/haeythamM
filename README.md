@@ -49,4 +49,16 @@ I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for c
 
 ---
 
+### 🚀 My Projects
+
+#### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)
+🔗 **Vue.js**  
+A bakery shop website built with Vue.js, featuring a user-friendly interface and responsive design.
+
+#### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)
+⚛️ **React**  
+A React-based project that fetches data from the Poke API to display information about Pokémon.
+
+---
+
 👉 **Feel free to explore my repositories and let's build something amazing together!**
