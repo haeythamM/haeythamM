@@ -14,19 +14,19 @@ I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for c
 
 ### 🛠 Technical Skills:
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
@@ -51,13 +51,17 @@ I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for c
 
 ### 🚀 My Projects
 
-#### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)
+#### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)  
 🔗 **Vue.js**  
 A bakery shop website built with Vue.js, featuring a user-friendly interface and responsive design.
 
-#### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)
+#### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)  
 ⚛️ **React**  
 A React-based project that fetches data from the Poke API to display information about Pokémon.
+
+#### 3. [Relaxation SPA](https://relaxation-spa-react-project.vercel.app/)  
+⚛️ **React**  
+A serene and responsive SPA (Single Page Application) designed to offer relaxation-themed content, built with React.
 
 ---
 
