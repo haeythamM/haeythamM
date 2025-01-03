@@ -49,19 +49,27 @@ I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for c
 
 ---
 
-### 🚀 My Projects
+ ## 🚀 My Projects  
 
-#### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)  
+### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)  
 🔗 **Vue.js**  
-A bakery shop website built with Vue.js, featuring a user-friendly interface and responsive design.
+A bakery shop website built with Vue.js, featuring a user-friendly interface and responsive design.  
 
-#### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)  
+### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)  
 ⚛️ **React**  
-A React-based project that fetches data from the Poke API to display information about Pokémon.
+A React-based project that fetches data from the Poke API to display information about Pokémon.  
 
-#### 3. [Relaxation SPA](https://relaxation-spa-react-project.vercel.app/)  
+### 3. [Relaxation SPA](https://relaxation-spa-react-project.vercel.app/)  
 ⚛️ **React**  
-A serene and responsive SPA (Single Page Application) designed to offer relaxation-themed content, built with React.
+A serene and responsive SPA (Single Page Application) designed to offer relaxation-themed content, built with React.  
+
+### 4. [Framework-Based Website](https://haeythamm.github.io/framework-based-website-via-React/)  
+🌐 **Next.js**  
+"Welcome to Daily Grind Café" - A modern and responsive website showcasing a café, built with Next.js and incorporating:  
+- **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** for improved performance and SEO.  
+- **CSS Modules** and **Bootstrap** for responsive design and scoped styling.  
+- **GitHub Actions** for automated deployment workflows.  
+- Integration of interactive features like multimedia and maps for enhanced user experience.  
 
 ---
 
