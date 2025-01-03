@@ -63,13 +63,14 @@ A React-based project that fetches data from the Poke API to display information
 ⚛️ **React**  
 A serene and responsive SPA (Single Page Application) designed to offer relaxation-themed content, built with React.  
 
-### 4. [Framework-Based Website](https://haeythamm.github.io/framework-based-website-via-React/)  
+ ### 4. [Framework-Based Website](https://haeythamm.github.io/framework-based-website-via-React/)  
 🌐 **Next.js**  
 "Welcome to Daily Grind Café" - A modern and responsive website showcasing a café, built with Next.js and incorporating:  
 - **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** for improved performance and SEO.  
 - **CSS Modules** and **Bootstrap** for responsive design and scoped styling.  
 - **GitHub Actions** for automated deployment workflows.  
 - Integration of interactive features like multimedia and maps for enhanced user experience.  
+- **NPM Plugins**: Utilized `react-player` for embedding videos and `leaflet.js` for interactive maps.  
 
 ---
 
