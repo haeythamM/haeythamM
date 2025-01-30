@@ -1,84 +1,76 @@
-## Hi there, I'm Haeytham 👋  
-### A passionate developer exploring the world of technology!
-![Header Image](./Header.png)
+# Hi there, I'm Haeytham 👋  
+### Frontend Developer | UI/UX Enthusiast | Tech Explorer
 
-I'm **Haeytham Almalak**, a passionate **Frontend Developer** with a flair for crafting intuitive and responsive user interfaces. I enjoy solving challenges and bringing ideas to life through modern web technologies.
+![Header Banner](./Header.png)
 
----
-
-### 🌱 Currently Learning:
-- Advanced web design and front-end development techniques.
-- Accessibility best practices for creating inclusive web experiences.
+Welcome to my GitHub profile! I'm passionate about creating beautiful, responsive, and accessible web experiences. Let's build something amazing together!
 
 ---
 
-### 🛠 Technical Skills:
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+## 🚀 Technical Expertise
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+### **Core Technologies**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+### **Supporting Stack**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
-### 🎓 Education:
-- **Web Development – Front-End Design Program** (Postgraduate), George Brown College, Toronto, ON (2024 - Present)  
-  *UI/UX Design, Responsive Front-End Development, Industry Workflow*
+## 💼 Featured Projects
 
-- **Web Programming & Development** (Certificate), Seneca Polytechnic, Toronto, ON (2023 - 2024)  
-  *Frontend: React, Vue.js; Backend: Laravel, Flask; Database: MySQL, MariaDB*
+### **Café Website with Next.js**
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://haeythamm.github.io/framework-based-website-via-React/)
+- SSR/SSG implementation for optimal performance
+- Integrated Leaflet.js maps & React Player
+- Automated CI/CD with GitHub Actions
 
-- **Computer Engineering Technology** (Advanced Diploma), Seneca Polytechnic, Toronto, ON (2018 - 2022)  
-  *Web Development with Linux, Programming in C, C++, and C# .NET*
+### **Modern Bakery Platform**
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://family-bakery-shop-vue-js.vercel.app/)
+- Responsive e-commerce interface
+- Interactive product catalog
+- Seamless checkout experience
 
----
-
-### 📫 How to Reach Me:
-- [GitHub](https://github.com/haeythamM)  
-- [LinkedIn](https://www.linkedin.com/in/haeytham/)
-
----
-
- ## 🚀 My Projects  
-
-### 1. [Family Bakery Shop](https://family-bakery-shop-vue-js.vercel.app/)  
-🔗 **Vue.js**  
-A bakery shop website built with Vue.js, featuring a user-friendly interface and responsive design.  
-
-### 2. [Poke API React Project](https://poke-api-react-project-alpha.vercel.app/)  
-⚛️ **React**  
-A React-based project that fetches data from the Poke API to display information about Pokémon.  
-
-### 3. [Relaxation SPA](https://relaxation-spa-react-project.vercel.app/)  
-⚛️ **React**  
-A serene and responsive SPA (Single Page Application) designed to offer relaxation-themed content, built with React.  
-
- ### 4. [Framework-Based Website](https://haeythamm.github.io/framework-based-website-via-React/)  
-🌐 **Next.js**  
-"Welcome to Daily Grind Café" - A modern and responsive website showcasing a café, built with Next.js and incorporating:  
-- **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** for improved performance and SEO.  
-- **CSS Modules** and **Bootstrap** for responsive design and scoped styling.  
-- **GitHub Actions** for automated deployment workflows.  
-- Integration of interactive features like multimedia and maps for enhanced user experience.  
-- **NPM Plugins**: Utilized `react-player` for embedding videos and `leaflet.js` for interactive maps.  
+### **Pokémon API Explorer**
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://poke-api-react-project-alpha.vercel.app/)
+- Dynamic data fetching from PokeAPI
+- Interactive card-based UI
+- Responsive grid layout
 
 ---
 
-👉 **Feel free to explore my repositories and let's build something amazing together!**
+## 📚 Education & Credentials
 
+### **George Brown College** (2024-Present)
+🎓 Web Development – Front-End Design (Postgraduate)  
+📘 Focus: Advanced UI/UX, Responsive Design, Industry Workflows
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haeythamM&theme=github-dark)
+### **Seneca Polytechnic** (2018-2024)
+🎓 Web Programming & Development Certificate  
+🎓 Computer Engineering Technology Advanced Diploma  
+📘 Core Studies: React, Vue.js, Laravel, MySQL, C-family languages
 
+---
 
+## 🌱 Current Focus
+- Implementing Web Content Accessibility Guidelines (WCAG)
+- Exploring Micro-frontend Architectures
+- Mastering Performance Optimization Techniques
 
+---
 
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haeytham/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/haeythamM)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haeythamM&theme=github-dark&height=300)
