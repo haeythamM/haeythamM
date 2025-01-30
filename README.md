@@ -75,3 +75,10 @@ A serene and responsive SPA (Single Page Application) designed to offer relaxati
 ---
 
 👉 **Feel free to explore my repositories and let's build something amazing together!**
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haeythamM&theme=github-dark)
+
+
+
+
