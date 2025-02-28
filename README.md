@@ -1,5 +1,6 @@
 # Hi there, I'm Haeytham 👋  
-### Frontend Developer | UI/UX Enthusiast | Tech Explorer
+### Frontend Developer | UI/UX Designer | Technologist
+ 
 [![🚀 Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://final-project-portfolio.vercel.app/)
 ![Header Banner](./Header.png)
 
