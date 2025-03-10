@@ -26,6 +26,11 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, responsiv
 ---
 
 ## 💼 Featured Projects
+### **SpaceX Launch Tracker**
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://space-x-weld-alpha.vercel.app/)
+- Real-time data fetching from SpaceX API
+- Mission details and launch status tracking
+- Optimized performance with lazy loading
 
 ### **Café Website with Next.js**
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://haeythamm.github.io/framework-based-website-via-React/)
@@ -57,12 +62,6 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, responsiv
 🎓 Web Programming & Development Certificate  
 🎓 Computer Engineering Technology Advanced Diploma  
 📘 Core Studies: React, Vue.js, Laravel, MySQL, C-family languages
-
-### **SpaceX Launch Tracker**
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://space-x-weld-alpha.vercel.app/)
-- Real-time data fetching from SpaceX API
-- Mission details and launch status tracking
-- Optimized performance with lazy loading
 
 ---
 
