@@ -58,12 +58,19 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, responsiv
 🎓 Computer Engineering Technology Advanced Diploma  
 📘 Core Studies: React, Vue.js, Laravel, MySQL, C-family languages
 
+### **SpaceX Launch Tracker**
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://space-x-weld-alpha.vercel.app/)
+- Real-time data fetching from SpaceX API
+- Mission details and launch status tracking
+- Optimized performance with lazy loading
+
 ---
 
 ## 🌱 Current Focus
 - Implementing Web Content Accessibility Guidelines (WCAG)
 - Exploring Micro-frontend Architectures
 - Mastering Performance Optimization Techniques
+- Angular Framework 
 
 ---
 
