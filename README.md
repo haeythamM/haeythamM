@@ -75,7 +75,6 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, responsiv
 
 ## 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://www.haeytham.it.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haeytham/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/haeythamM)
 
