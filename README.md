@@ -90,8 +90,9 @@ Welcome to my GitHub profile! I'm passionate about creating seamless digital exp
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haeytham/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/haeythamM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/haeytham/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/haeythamM)
+[![Hackaday.io](https://img.shields.io/badge/Hackaday.io-242424?logo=hackaday&logoColor=white&style=for-the-badge)](https://hackaday.io/Haeytham)
 
 ---
 
