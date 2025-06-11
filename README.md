@@ -46,6 +46,12 @@ Welcome to my GitHub profile! I'm passionate about creating seamless digital exp
 - Real-time data from SpaceX API
 - Responsive layout using Bootstrap & Axios
 
+### **Pokémon Explorer**
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://poke-api-react-project-alpha.vercel.app/)
+- Built with React + Axios to fetch data from the [PokéAPI](https://pokeapi.co/)
+- Interactive UI to browse Pokémon with images and types
+- Dynamic search and responsive design
+
 ### **Modern Café Website**
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://haeythamm.github.io/framework-based-website-via-React/)
 - SSR/SSG support with dynamic pages
@@ -62,12 +68,6 @@ Welcome to my GitHub profile! I'm passionate about creating seamless digital exp
 - Flask backend serving REST API + live data via WebSockets
 - React frontend with Chart.js and responsive UI
 - Data logged into SQLite for analysis and display
-
-
-### **WordPress Custom Theme**
-- Built custom theme from scratch
-- ACF integration with SCSS styling
-- Fully responsive and lightweight performance
 
 ---
 
