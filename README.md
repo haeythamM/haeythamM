@@ -56,10 +56,13 @@ Welcome to my GitHub profile! I'm passionate about creating seamless digital exp
 - E-commerce experience with Vue + Vite
 - Responsive product catalog & checkout
 
-### **IoT Sensor Dashboard**
-- Real-time sensor data (LabJack + Flask)
-- React frontend visualized with Chart.js
-- RESTful API + Socket.io communication
+### **Full-Stack IoT – LabJack U3-HV**
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7331135070826631168)
+- Real-time data collection from LabJack U3-HV (temperature & light sensors)
+- Flask backend serving REST API + live data via WebSockets
+- React frontend with Chart.js and responsive UI
+- Data logged into SQLite for analysis and display
+
 
 ### **WordPress Custom Theme**
 - Built custom theme from scratch
@@ -76,7 +79,9 @@ Welcome to my GitHub profile! I'm passionate about creating seamless digital exp
 ### **Seneca Polytechnic** (2018–2024)  
 🎓 Computer Engineering Technology Advanced Diploma  
 🎓 Web Programming & Development Certificate
-
+---
+### **Professional Membership**
+👨‍🔧 **Member – [Ontario Association of Certified Engineering Technicians and Technologists (OACETT)](https://www.oacett.org/)**
 ---
 
 ## 🌱 Current Focus
