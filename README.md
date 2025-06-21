@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Haeytham from Canada&nbsp;<img src="https://github.com/user-attachments/assets/18bf9013-b6fc-4f87-807a-0a6c2ff80376" width="33" height="28" />
 
-### ⚡ Frontend Developer • IoT Technologist • Full-Stack Enthusiast • WordPress Expert
+### ⚡ Frontend Developer • IoT Technologist • Full-Stack Enthusiast 
 
 [![🚀 Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://www.haeytham.it.com/)
 ![Header Banner](./Header.png)
