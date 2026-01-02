@@ -2,7 +2,7 @@
 
 ### ⚡ Frontend Developer • IoT Technologist • Full-Stack Enthusiast 
 
-[![🚀 Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://www.haeytham.it.com/)
+[![🚀 Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://www.haeytham.dev/)
 ![Header Banner](./Header.png)
 
 Welcome to my GitHub profile! I'm passionate about creating seamless digital experiences — from responsive UIs to full-stack applications and IoT-powered systems. Whether it’s building modern websites, connecting sensors to the web, or developing WordPress solutions — I love bridging ideas with technology.
