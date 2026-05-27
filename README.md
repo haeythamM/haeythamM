@@ -32,7 +32,7 @@ Toronto, Canada
 
 ## About
 
-I'm a frontend-focused developer and computer engineering technologist with experience in real-time systems, IoT integration, API-driven applications, and visual interface development.
+I'm a frontend engineer and computer engineering technologist focused on real-time systems, IoT integration, and modern web applications.
 
 My background combines software engineering, broadcast media production, and embedded systems, allowing me to approach development from both a technical and user-experience perspective.
 
