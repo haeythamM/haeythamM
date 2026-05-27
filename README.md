@@ -1,117 +1,325 @@
-# Hi there 👋, I'm Haeytham from Canada&nbsp;<img src="https://github.com/user-attachments/assets/18bf9013-b6fc-4f87-807a-0a6c2ff80376" width="33" height="28" />
+<div align="center">
 
-### ⚡ Frontend Developer • IoT Technologist • Full-Stack Enthusiast 
+# Haeytham Almalak
 
-[![🚀 Portfolio](https://img.shields.io/badge/✨_My_Portfolio-Click_Me!-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://haeytham.dev/)
-![Header Banner](./Header.png)
+### Frontend Engineer · IoT Systems Developer · Full-Stack Web Technologist
 
-Welcome to my GitHub profile! I'm passionate about creating seamless digital experiences — from responsive UIs to full-stack applications and IoT-powered systems. Whether it’s building modern websites, connecting sensors to the web, or developing WordPress solutions — I love bridging ideas with technology.
+Building modern web systems that combine real-time data, visualization, and human-centered interfaces.
 
----
+Toronto, Canada
 
-## 🧰 Toolbox
+<br/>
 
-<img src="https://skillicons.dev/icons?i=js,react,vue,nextjs,html,css,php,python,nodejs,figma,git,wordpress,arduino,flask,mysql,vscode" />
+<p align="center">
 
----
+<a href="https://haeytham.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
-## 🚀 Technical Expertise
+<a href="https://www.linkedin.com/in/haeytham/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+<a href="https://github.com/haeythamM">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-### **Backend & CMS**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+</p>
 
-### **IoT & Embedded**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![LabJack](https://img.shields.io/badge/LabJack-E2231A?logo=labjack&logoColor=white&style=flat-square)
+</div>
 
 ---
 
-## 💼 Featured Projects
+## About
 
-### **SpaceX Launch Tracker**
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://space-x-weld-alpha.vercel.app/)
-- Real-time data from SpaceX API
-- Responsive layout using Bootstrap & Axios
+I'm a frontend-focused developer and computer engineering technologist with experience in real-time systems, IoT integration, API-driven applications, and visual interface development.
 
-### **Pokémon Explorer**
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://poke-api-react-project-alpha.vercel.app/)
-- Built with React + Axios to fetch data from the [PokéAPI](https://pokeapi.co/)
-- Interactive UI to browse Pokémon with images and types
-- Dynamic search and responsive design
+My background combines software engineering, broadcast media production, and embedded systems, allowing me to approach development from both a technical and user-experience perspective.
 
-### **Modern Café Website**
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://haeythamm.github.io/framework-based-website-via-React/)
-- SSR/SSG support with dynamic pages
-- Leaflet Maps & ReactPlayer integration
+I focus on building:
 
-### **Bakery Platform**
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://family-bakery-shop-vue-js.vercel.app/)
-- E-commerce experience with Vue + Vite
-- Responsive product catalog & checkout
+- Real-time dashboards and live data systems
+- Modern frontend interfaces using React ecosystems
+- Full-stack applications with structured APIs
+- IoT-to-web communication pipelines
+- Visually clear and accessible user experiences
 
-### **Full-Stack IoT – LabJack U3-HV**
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7331135070826631168)
-- Real-time data collection from LabJack U3-HV (temperature & light sensors)
-- Flask backend serving REST API + live data via WebSockets
-- React frontend with Chart.js and responsive UI
-- Data logged into SQLite for analysis and display
+My core direction is frontend engineering with full-stack and IoT integration experience, while deepening backend architecture and database engineering.
 
 ---
 
-## 📚 Education & Credentials
+## Technical Focus
 
-### **George Brown College** (2024–Present)  
-🎓 Web Development – Front-End Design (Postgraduate)
+<table>
+<tr>
+<td width="50%">
 
-### **Seneca Polytechnic** (2018–2024)  
-🎓 Computer Engineering Technology Advanced Diploma  
-🎓 Web Programming & Development Certificate
+### Frontend Engineering
+
+- React / Next.js
+- JavaScript (ES6+)
+- HTML5 / CSS3 / SCSS
+- Responsive UI architecture
+- Component-driven development
+- Accessibility-focused interfaces
+
+</td>
+
+<td width="50%">
+
+### Backend & Systems
+
+- Node.js / Express
+- Flask
+- REST APIs / WebSockets
+- MySQL / SQLite
+- PHP / Laravel
+- Authentication & CRUD systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### IoT & Real-Time Systems
+
+- LabJack U3-HV
+- Arduino / Raspberry Pi
+- Live sensor data streaming
+- Hardware-to-web integration
+- MQTT concepts
+
+</td>
+
+<td width="50%">
+
+### Design & Visualization
+
+- Data visualization with Chart.js
+- Dashboard UI systems
+- Figma-to-code workflows
+- Visual communication
+- Broadcast media production background
+
+</td>
+</tr>
+</table>
+
 ---
-### **Professional Membership**
-👨‍🔧 **Member – [Ontario Association of Certified Engineering Technicians and Technologists (OACETT)](https://www.oacett.org/)**
----
 
-## 🌱 Current Focus
+## Technology Stack
 
-- Web Accessibility (WCAG Standards)
-- Full-Stack API Development
-- IoT-to-Web Integration using MQTT & WebSockets
-- Custom WordPress Themes & REST API Headless CMS
-- Performance Optimization in React/Vue apps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,php,python,flask,mysql,html,css,scss,git,figma,wordpress,arduino,vscode" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/haeytham/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/haeythamM)
-[![Hackaday.io](https://img.shields.io/badge/Hackaday.io-242424?logo=hackaday&logoColor=white&style=for-the-badge)](https://hackaday.io/Haeytham)
+## Featured Projects
 
 ---
 
-## 📊 GitHub Activity & Stats
+### 🔬 Full-Stack IoT Dashboard — LabJack U3-HV
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haeythamM&theme=github-dark&height=300)
+> Real-time environmental sensor data streamed from hardware to a live web dashboard.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haeythamM&show_icons=true&theme=tokyonight&hide_border=true)
+| | |
+|---|---|
+| **Stack** | React · Flask · WebSockets · Chart.js · SQLite |
+| **Hardware** | LabJack U3-HV (temperature & light sensors) |
+| **Frontend Demo** | [Open Demo](https://labjack-frontend.vercel.app/) |
+| **Project Video** | [Watch Video](https://www.youtube.com/watch?v=z2QrNBDGFSg) |
+| **LinkedIn Post** | [View Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:7331135070826631168) |
+| **Demo Note** | Frontend demo currently uses mock sensor data for public preview |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haeythamM&layout=compact&theme=tokyonight&hide_border=true)
+### System Architecture
 
+```text
+LabJack U3-HV (Hardware Sensors)
+        |
+Flask REST API (Backend)
+        |
+WebSocket Live Stream
+        |
+React + Chart.js Dashboard (Frontend)
+        |
+SQLite Historical Storage
+```
+
+### Key Highlights
+
+- Built concurrent live-data workflows using WebSockets
+- Designed responsive Chart.js visualization interfaces
+- Managed sensor-to-browser communication architecture
+- Structured persistent SQLite storage for historical analysis
+- Developed a frontend preview environment using mock live data
+- Combined hardware integration with modern frontend visualization systems
+
+---
+
+### 🎨 Colour Hub
+
+> A visual experimentation and interface concept platform focused on colour systems, UI hierarchy, creative layouts, and digital visual communication.
+
+| | |
+|---|---|
+| **Focus** | UI Systems · Visual Identity · Creative Interfaces |
+| **Stack** | React · Figma · SCSS · Responsive Design |
+| **Project Video** | [Watch Video](https://www.youtube.com/watch?v=ngqN1MJbTlQ) |
+| **Live Demo** | [Open App](https://front-end-color-hub.vercel.app/) |
+
+### Key Highlights
+
+- Explored structured colour systems and interface consistency
+- Designed cinematic-inspired layouts and visual hierarchy
+- Focused on presentation-oriented user experiences
+- Developed responsive interface concepts for modern web environments
+- Combined media production background with frontend design direction
+
+---
+
+### 🏛 IRAQart2003
+
+> A digital preservation platform for Iraqi art, cinema, music, and historical media.
+
+| | |
+|---|---|
+| **Stack** | React · Vite · TypeScript · Tailwind CSS |
+| **Live Site** | [iraqart2003.com](https://iraqart2003.com) |
+
+### Key Highlights
+
+- React + Vite + TypeScript architecture
+- Dynamic article organization and custom rendering workflows
+- SEO-oriented structure and responsive magazine-style layouts
+- Bilingual content direction and image protection handling
+
+---
+
+### ⚙️ MelodyStream API — Node.js / Express REST API
+
+> Backend REST API architecture project focused on scalable server-side workflows, structured routing, authentication concepts, and production-oriented backend development.
+
+| | |
+|---|---|
+| **Focus** | REST APIs · CRUD Systems · Backend Architecture |
+| **Stack** | Node.js · Express.js · MySQL · REST API |
+| **Repository** | [View Repository](https://github.com/haeythamM/MelodyStream-API-Node.js-Express-REST-API-) |
+| **Status** | In Active Development |
+
+### Key Highlights
+
+- Structured REST API architecture using Express.js
+- Organized backend routing and middleware workflows
+- CRUD-based backend communication patterns
+- Server-side validation and request handling
+- Database-oriented backend structure
+- Scalable Node.js application organization
+- Focused on production-oriented backend engineering practices
 
 
 ---
-⌚ Last updated: May 13, 2025
-<!-- GitHub Profile README by Haeytham Almalak | Updated June 2025 -->
+
+## Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### Front-End Developer Co-op  
+**Beyond the Sky**
+
+- Developed responsive React pages from Figma designs
+- Integrated frontend systems with REST APIs
+- Improved layout consistency and UI structure
+- Worked with reusable component architecture
+
+</td>
+
+<td width="50%">
+
+### Web Development Tutor  
+**George Brown College**
+
+- Supported students in frontend development concepts
+- Guided debugging and responsive design practices
+- Assisted with JavaScript and layout problem-solving
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Systems Analyst Co-op  
+**Arthritis Society Canada**
+
+- Supported Microsoft 365 account systems
+- Assisted with technical troubleshooting workflows
+- Documented internal support processes
+
+</td>
+
+<td width="50%">
+
+### Broadcast & Media Production  
+**5+ Years · TV Networks**
+
+- Video editing and directing for broadcast television
+- Visual storytelling and post-production workflows
+- Technical production in live and studio environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## Education
+
+| Institution | Credential |
+|---|---|
+| George Brown College | Postgraduate Certificate — Web Development, Front-End Design |
+| Seneca Polytechnic | Certificate — Web Programming & Development |
+| Seneca Polytechnic | Advanced Diploma — Computer Engineering Technology |
+| University of Baghdad | Bachelor of Arts — Cinema, Audio-Visual Arts |
+
+---
+
+## Professional Memberships
+
+- **OACETT** — Ontario Association of Certified Engineering Technicians and Technologists  
+  Associate Member
+
+- **IEEE** — Institute of Electrical and Electronics Engineers  
+  Student Member · Nov 2020 – Feb 2023  
+  Associated with Seneca Polytechnic
+
+- **Iraqi Artists Syndicate** — Film & Media Arts Member
+---
+
+## Current Engineering Direction
+
+I am currently focused on improving:
+
+- Full-stack application architecture
+- Backend engineering fundamentals
+- REST API scalability
+- Laravel application structure
+- Database normalization
+- Real-time communication systems
+- Accessibility and frontend performance
+- Structured software engineering workflows
+
+---
+
+ 
+
+<div align="center">
+
+Focused on building practical, scalable, and meaningful digital systems.
+
+</div>
+
+<!-- GitHub Profile README — Haeytham Almalak | Updated May 2026 -->
