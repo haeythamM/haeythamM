@@ -34,7 +34,7 @@ Toronto, Canada
 
 I'm a frontend engineer and computer engineering technologist focused on real-time systems, IoT integration, and modern web applications.
 
-My background combines software engineering, broadcast media production, and embedded systems, allowing me to approach development from both a technical and user-experience perspective.
+My background combines software engineering, broadcast media production, and embedded systems, allowing me to approach development from both technical and user-experience perspectives.
 
 I focus on building:
 
@@ -42,9 +42,9 @@ I focus on building:
 - Modern frontend interfaces using React ecosystems
 - Full-stack applications with structured APIs
 - IoT-to-web communication pipelines
-- Visually clear and accessible user experiences
+- Clear, accessible, and visually meaningful user experiences
 
-My core direction is frontend engineering with full-stack and IoT integration experience, while deepening backend architecture and database engineering.
+My current direction is frontend engineering with full-stack and IoT integration, while continuing to deepen backend architecture and database engineering.
 
 ---
 
