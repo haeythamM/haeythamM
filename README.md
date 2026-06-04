@@ -107,7 +107,14 @@ My current direction is frontend engineering with full-stack and IoT integration
 </table>
 
 ---
+## Open Source Projects
 
+- [LabJack Real-Time Dashboard](https://github.com/haeythamM/labjack-realtime-dashboard)
+- [Colour Hub IoT Controller](https://github.com/haeythamM/colorhub-iot-controller)
+- [MelodyStream REST API](https://github.com/haeythamM/MelodyStream-API-Node.js-Express-REST-API-)
+- [IRAQart2003 Digital Archive](https://iraqart2003.com)
+
+---
 ## Technology Stack
 
 <p align="center">
@@ -128,6 +135,7 @@ My current direction is frontend engineering with full-stack and IoT integration
 |---|---|
 | **Stack** | React · Flask · WebSockets · Chart.js · SQLite |
 | **Hardware** | LabJack U3-HV (temperature & light sensors) |
+| **GitHub Repository** | [View Repository](https://github.com/haeythamM/labjack-realtime-dashboard) |
 | **Frontend Demo** | [Open Demo](https://labjack-frontend.vercel.app/) |
 | **Project Video** | [Watch Video](https://www.youtube.com/watch?v=z2QrNBDGFSg) |
 | **LinkedIn Post** | [View Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:7331135070826631168) |
@@ -166,6 +174,7 @@ SQLite Historical Storage
 |---|---|
 | **Focus** | UI Systems · Visual Identity · Creative Interfaces |
 | **Stack** | React · Figma · SCSS · Responsive Design |
+| **GitHub Repository** | [View Repository](https://github.com/haeythamM/colorhub-iot-controller) |
 | **Project Video** | [Watch Video](https://www.youtube.com/watch?v=ngqN1MJbTlQ) |
 | **Live Demo** | [Open App](https://front-end-color-hub.vercel.app/) |
 
