@@ -119,6 +119,7 @@ My current direction is frontend engineering with full-stack and IoT integration
 
 ## Public Portfolio Projects
 
+* [CaseFlow — Customer Service & Case Management System](https://caseflow-customer-service-demo.vercel.app/login)
 * [LabJack U3-HV Realtime Dashboard](https://github.com/haeythamM/labjack-realtime-dashboard)
 * [ColorHub IoT Controller](https://github.com/haeythamM/colorhub-iot-controller)
 * [MelodyStream REST API](https://github.com/haeythamM/MelodyStream-API-Node.js-Express-REST-API-)
@@ -135,6 +136,32 @@ My current direction is frontend engineering with full-stack and IoT integration
 ---
 
 ## Featured Projects
+
+---
+
+### 🗂️ CaseFlow — Customer Service & Case Management System
+
+> Full-stack customer service and case management application built with PHP and MySQL, with a React/TypeScript frontend, role-based access control, secure session authentication, and a production deployment.
+
+|                     |                                                                 |
+| ------------------- | --------------------------------------------------------------- |
+| **Focus**           | Customer Service · Case Management · Full-Stack PHP             |
+| **Stack**           | React · TypeScript · PHP · MySQL                                |
+| **Architecture**    | Layered backend · REST-style APIs · Relational data             |
+| **Deployment**      | Vercel frontend · Railway backend and MySQL                     |
+| **Live Demo**       | [Open CaseFlow](https://caseflow-customer-service-demo.vercel.app/login) |
+| **Demo Role**       | Demo Viewer — read-only access                                  |
+| **Demo Email**      | `demo.viewer@caseflow.local`                                    |
+| **Demo Password**   | `DemoViewer2026!`                                               |
+
+### Key Highlights
+
+* Built customer, case, communication, activity, attachment, and reporting workflows
+* Implemented role-based access for Admin, Support Agent, and Demo Viewer
+* Added session authentication, CSRF protection, password hashing, and protected application routes
+* Structured backend flow across routing, middleware, controllers, services, repositories, and MySQL persistence
+* Added responsive desktop and mobile interfaces for dashboards, cases, communications, reports, and user management
+* Deployed the frontend on Vercel with a Railway-hosted PHP backend and MySQL database
 
 ---
 
