@@ -119,7 +119,7 @@ My current direction is frontend engineering with full-stack and IoT integration
 
 ## Public Portfolio Projects
 
-* [CaseFlow — Customer Service & Case Management System](https://caseflow-customer-service-demo.vercel.app/login)
+* [CaseFlow — Customer Service & Case Management System](https://github.com/haeythamM/caseflow)
 * [LabJack U3-HV Realtime Dashboard](https://github.com/haeythamM/labjack-realtime-dashboard)
 * [ColorHub IoT Controller](https://github.com/haeythamM/colorhub-iot-controller)
 * [MelodyStream REST API](https://github.com/haeythamM/MelodyStream-API-Node.js-Express-REST-API-)
@@ -149,6 +149,7 @@ My current direction is frontend engineering with full-stack and IoT integration
 | **Stack**           | React · TypeScript · PHP · MySQL                                |
 | **Architecture**    | Layered backend · REST-style APIs · Relational data             |
 | **Deployment**      | Vercel frontend · Railway backend and MySQL                     |
+| **GitHub Repository** | [View Repository](https://github.com/haeythamM/caseflow)       |
 | **Live Demo**       | [Open CaseFlow](https://caseflow-customer-service-demo.vercel.app/login) |
 | **Demo Role**       | Demo Viewer — read-only access                                  |
 | **Demo Email**      | `demo.viewer@caseflow.local`                                    |
