@@ -12,11 +12,11 @@ Toronto, Canada
 
 <p align="center">
 
-<a href="https://haeytham.dev/">
+<a href="https://haeytham.com/">
   <img src="https://img.shields.io/badge/Front--End%20%26%20UI%20Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://iot.haeytham.dev/">
+<a href="https://iot.haeytham.com/">
   <img src="https://img.shields.io/badge/IoT%20Portfolio-111827?style=flat-square&logo=raspberrypi&logoColor=white" />
 </a>
 
@@ -176,7 +176,7 @@ My current direction is frontend engineering with full-stack and IoT integration
 | **Stack**             | React · Flask · Socket.IO · Chart.js · SQLite                                           |
 | **Hardware**          | LabJack U3-HV                                                                           |
 | **GitHub Repository** | [View Repository](https://github.com/haeythamM/labjack-realtime-dashboard)              |
-| **IoT Case Study**    | [View Portfolio Page](https://iot.haeytham.dev/projects/labjack)                        |
+| **IoT Case Study**    | [View Portfolio Page](https://iot.haeytham.com/projects/labjack)                        |
 | **Frontend Demo**     | [Open Demo](https://labjack-frontend.vercel.app/)                                       |
 | **Project Video**     | [Watch Video](https://www.youtube.com/watch?v=z2QrNBDGFSg)                              |
 | **LinkedIn Post**     | [View Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:7331135070826631168) |
@@ -219,7 +219,7 @@ Time-Series Monitoring UI
 | **Stack**             | React · Vite · Tailwind CSS · Flask · Raspberry Pi                      |
 | **Hardware**          | RGB LED · 16x2 I2C LCD · Speaker                                        |
 | **GitHub Repository** | [View Repository](https://github.com/haeythamM/colorhub-iot-controller) |
-| **IoT Case Study**    | [View Portfolio Page](https://iot.haeytham.dev/projects/colorhub)       |
+| **IoT Case Study**    | [View Portfolio Page](https://iot.haeytham.com/projects/colorhub)       |
 | **Live Demo**         | [Open App](https://front-end-color-hub.vercel.app/)                     |
 | **Project Video**     | [Watch Video](https://www.youtube.com/watch?v=ngqN1MJbTlQ)              |
 
